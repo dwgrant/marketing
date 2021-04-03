@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# OAuth
+client_secrets.json
+
 # PyCharm
 venv/
 .idea/
